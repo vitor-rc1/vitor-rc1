@@ -56,3 +56,6 @@ Currently studying software development at Trybe and looking for **new opportuni
   </a> 
 </p>
 
+
+[Reference for this README](https://github.com/thayscosta3)
+
