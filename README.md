@@ -3,7 +3,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=vitor-rc1&label=Profile%20views&color=0e75b6&style=flat" alt="vitor-rc1" />
 </h3>
 
-<img align="right" height="400" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612917055574.png">
+<img align="right" height="350" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612917055574.png">
 
 My name is Vitor and i'm from Minas Gerais, but currently living in **SBC - SP**.
 Passionate about technology, develop solutions that serve people and solve complex problems.
@@ -15,7 +15,7 @@ Currently studying software development at Trybe and looking for **new opportuni
 </p>
 
 <p align="left">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=vitor-rc1&count_private=true&theme=yeblu"> 
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=vitor-rc1&count_private=true&theme=yeblu"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitor-rc1&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="vitor-rc1" />
 </p>
 
