@@ -11,7 +11,7 @@ Currently studying software development at Trybe and looking for **new opportuni
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vitorrodrig" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" alt="vitorrodrig" height="60" /></a>
+<a href="https://linkedin.com/in/vitorrodrig" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/15792152941556105325-512.png" alt="vitorrodrig" height="60" /></a>
 </p>
 
 <p align="left">
