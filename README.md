@@ -18,8 +18,9 @@ Currently studying software development at Trybe and looking for **new opportuni
 <br>
 
 <p>
-    <img height="100" src="https://github-readme-stats.vercel.app/api?username=vitor-rc1&count_private=true&theme=yeblu"> 
-    <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitor-rc1&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="vitor-rc1" />
+    <img height="130" src="https://github-readme-stats.vercel.app/api?username=vitor-rc1&count_private=true&theme=yeblu"> 
+    <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitor-rc1&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="vitor-rc1" />
 </p>
 
 [Reference for this README](https://github.com/thayscosta3)
+
