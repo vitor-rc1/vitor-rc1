@@ -4,9 +4,8 @@
 
 <img align="right" height="200" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612917055574.png">
 
-My name is Vitor and i'm from Minas Gerais, but currently living in **SBC - SP**.
+My name is Vitor and i'm from Minas Gerais, but currently living in **SP**.
 Passionate about technology, develop solutions that serve people and solve complex problems.
-Currently studying software development at Trybe and looking for **new opportunities** to show my potential.
 
 <h3 align="left" >Connect with me:</h3>
 
