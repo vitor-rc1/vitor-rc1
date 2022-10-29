@@ -6,6 +6,7 @@
 
 My name is Vitor and i'm from Minas Gerais, but currently living in **SP**.
 Passionate about technology, develop solutions that serve people and solve complex problems.
+Currently acting as iOS developer at XP Inc.
 
 <h3 align="left" >Connect with me:</h3>
 
