@@ -5,7 +5,7 @@
 <img align="right" height="200" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612917055574.png">
 
 
-Passionate about technology, develop solutions that serve people and solve complex problems. Currently acting as iOS developer at XP Inc.
+Passionate about technology, develop solutions that serve people and solve complex problems. Currently acting as iOS developer at Luizalabs.
 I can create apps using Swift (Native) and Flutter.
 
 <h3 align="left" >Connect with me:</h3>
